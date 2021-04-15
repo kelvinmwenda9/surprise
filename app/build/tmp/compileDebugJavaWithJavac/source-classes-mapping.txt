@@ -1,0 +1,2 @@
+com/surprise/ann/BuildConfig.java
+ com.surprise.ann.BuildConfig
